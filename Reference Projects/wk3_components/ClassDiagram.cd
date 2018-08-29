@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vec3f" Collapsed="true">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vec.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vec2f" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vec.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpinComponent">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <Members>
+      <Method Name="~SpinComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAACAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>SpinComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <Members>
+      <Method Name="~GameObject" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAACAKAIAACAABAAAAAAAAAAAIEAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawComponent">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>DrawComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CubeComponent">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <Members>
+      <Method Name="~CubeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAIIIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CubeComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Component">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <Members>
+      <Method Name="~Component" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAgBAAAAEAAA=</HashCode>
+      <FileName>Component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
